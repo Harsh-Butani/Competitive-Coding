@@ -29,3 +29,13 @@
 ### 2) Next Greater Element using stack
 
 1) https://www.geeksforgeeks.org/next-greater-element/
+
+## Some standard preprocessing techniques
+
+### 1) Prefix Sum Array
+
+1) https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/
+
+### 2) Sieve of Eratosthenes
+
+1) https://www.geeksforgeeks.org/sieve-of-eratosthenes/
