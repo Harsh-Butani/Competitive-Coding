@@ -30,6 +30,10 @@
 
 1) https://www.geeksforgeeks.org/next-greater-element/
 
+### 3) Modular Exponentiation
+
+1) https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
