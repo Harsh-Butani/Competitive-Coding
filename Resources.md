@@ -20,6 +20,11 @@
 
 1) https://atcoder.jp/contests/dp/tasks
 
+## Disjoint Set Union
+
+1) https://codeforces.com/edu/course/2/lesson/7
+2) https://cp-algorithms.com/data_structures/disjoint_set_union.html
+
 ## Some standard algorithms
 
 ### 1) KMP Algorithm
