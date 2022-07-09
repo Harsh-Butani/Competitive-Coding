@@ -8,14 +8,14 @@ using namespace std;
 #define test ll t; scanf("%lld",&t); while(t--)
 
 int main() {
-  int n;
+  	int n;
 	cin>>n;
 	vector<ll>a(n);
 	vector<vector<ll>>dp(n,vector<ll>(n)); 
 	/* 
 	dp[i][j] stores the answer for subarray (i to j)
 	dp[i][j] = minimum of dp[i][k]+dp[k+1][j]+Sum of subarray (i to j), where k varies from i to j-1
-  Final answer is stored in dp[0][n-1]
+  	Final answer is stored in dp[0][n-1]
 	*/
 	for(int i=0;i<n;i++){
 	    cin>>a[i];
