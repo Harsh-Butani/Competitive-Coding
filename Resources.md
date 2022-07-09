@@ -35,7 +35,11 @@
 
 1) https://www.geeksforgeeks.org/next-greater-element/
 
-### 3) Modular Exponentiation
+### 3) Largest Rectangular Area under Histogram using stack
+
+1) https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+
+### 4) Modular Exponentiation
 
 1) https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/
 
