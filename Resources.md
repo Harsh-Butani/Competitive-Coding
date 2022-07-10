@@ -5,6 +5,7 @@
 1) https://codeforces.com/catalog
 2) https://blog.shahjalalshohag.com/topic-list/
 3) https://cp-algorithms.com/
+4) https://github.com/lnishan/awesome-competitive-programming
 
 ## Good resources for practicing
 
