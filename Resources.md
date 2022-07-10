@@ -6,6 +6,17 @@
 2) https://blog.shahjalalshohag.com/topic-list/
 3) https://cp-algorithms.com/
 
+## Good resources for practicing
+
+1) https://www.hackerearth.com/practice/
+2) https://codeforces.com/problemset
+3) https://www.codechef.com/practice?page=0&limit=20&sort_by=difficulty_rating&sort_order=asc&search=&start_rating=0&end_rating=999&topic=&tags=&group=all
+4) https://projecteuler.net/archives
+5) https://www.interviewbit.com/courses/programming/
+6) https://leetcode.com/problemset/all/
+7) https://cses.fi/problemset/
+8) https://www.spoj.com/problems/classical/
+
 ## Binary Search
 
 1) https://codeforces.com/edu/course/2/lesson/6
