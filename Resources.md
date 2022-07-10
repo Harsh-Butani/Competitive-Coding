@@ -43,6 +43,10 @@
 
 1) https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/
 
+### 5) Counting inversions
+
+1) https://www.geeksforgeeks.org/counting-inversions/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
