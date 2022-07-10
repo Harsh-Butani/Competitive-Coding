@@ -25,6 +25,11 @@
 1) https://codeforces.com/edu/course/2/lesson/7
 2) https://cp-algorithms.com/data_structures/disjoint_set_union.html
 
+## Bit Manipulation
+
+1) https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/
+2) https://www.interviewbit.com/courses/programming/bit-manipulation
+
 ## Some standard algorithms
 
 ### 1) KMP Algorithm
