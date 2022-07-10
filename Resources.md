@@ -29,6 +29,7 @@
 
 1) https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/
 2) https://www.interviewbit.com/courses/programming/bit-manipulation
+3) https://www.geeksforgeeks.org/bits-manipulation-important-tactics/
 
 ## Some standard algorithms
 
