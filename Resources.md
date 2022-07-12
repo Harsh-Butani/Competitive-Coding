@@ -6,6 +6,9 @@
 2) https://blog.shahjalalshohag.com/topic-list/
 3) https://cp-algorithms.com/
 4) https://github.com/lnishan/awesome-competitive-programming
+5) https://www.geeksforgeeks.org/data-structures/
+6) https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+7) https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/
 
 ## Good resources for practicing
 
