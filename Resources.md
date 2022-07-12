@@ -79,6 +79,7 @@
 ### 8) First non repeating character from a stream of characters
 
 1) https://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/
+2) https://www.geeksforgeeks.org/queue-based-approach-for-first-non-repeating-character-in-a-stream/
 
 ## Some standard preprocessing techniques
 
