@@ -81,6 +81,10 @@
 1) https://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/
 2) https://www.geeksforgeeks.org/queue-based-approach-for-first-non-repeating-character-in-a-stream/
 
+### 9) Trapping Rain Water
+
+1) https://www.geeksforgeeks.org/trapping-rain-water/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
