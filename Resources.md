@@ -72,6 +72,14 @@
 
 1) https://www.geeksforgeeks.org/floyds-cycle-finding-algorithm/
 
+### 7) Median in a stream of integers
+
+1) https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/
+
+### 8) First non repeating character from a stream of characters
+
+1) https://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
