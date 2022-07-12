@@ -89,6 +89,10 @@
 
 1) https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/
 
+### 11) Sliding Window Maximum
+
+1) https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
