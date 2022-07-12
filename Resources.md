@@ -85,6 +85,10 @@
 
 1) https://www.geeksforgeeks.org/trapping-rain-water/
 
+### 10) Min Stack
+
+1) https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
