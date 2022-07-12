@@ -93,6 +93,38 @@
 
 1) https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/
 
+### 12) Moore's Voting Algorithm
+
+1) https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/
+2) https://www.geeksforgeeks.org/n3-repeated-number-array-o1-space/
+
+### 13) Egg Dropping Problem
+
+1) https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
+2) https://www.geeksforgeeks.org/eggs-dropping-puzzle-binomial-coefficient-and-binary-search-solution/
+
+### 14) 0-1 Knapsack
+
+1) https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+
+### 15) Matrix Chain Multiplication
+
+1) https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+2) https://www.geeksforgeeks.org/matrix-chain-multiplication-a-on2-solution/
+
+### 16) Longest Increasing Subsequence
+
+1) https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
+2) https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/
+
+### 17) Longest Common Subsequence
+
+1) https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+
+### 18) Kadane's Algorithm
+
+1) https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
