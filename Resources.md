@@ -132,6 +132,10 @@
 
 1) https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/
 
+### 20) Quickselect Algorithm
+
+https://www.geeksforgeeks.org/quickselect-algorithm/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
