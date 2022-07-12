@@ -68,6 +68,10 @@
 
 1) https://www.geeksforgeeks.org/counting-inversions/
 
+### 6) Floyd's Cycle Detection Algorithm
+
+1) https://www.geeksforgeeks.org/floyds-cycle-finding-algorithm/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
