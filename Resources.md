@@ -140,6 +140,10 @@ https://www.geeksforgeeks.org/quickselect-algorithm/
 
 1) https://www.geeksforgeeks.org/lru-cache-implementation/
 
+### 22) Median of two sorted arrays
+
+1) https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
