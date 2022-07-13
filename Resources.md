@@ -136,6 +136,10 @@
 
 https://www.geeksforgeeks.org/quickselect-algorithm/
 
+### 21) LRU Cache
+
+1) https://www.geeksforgeeks.org/lru-cache-implementation/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
