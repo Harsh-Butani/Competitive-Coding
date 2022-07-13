@@ -134,7 +134,7 @@
 
 ### 20) Quickselect Algorithm
 
-https://www.geeksforgeeks.org/quickselect-algorithm/
+1) https://www.geeksforgeeks.org/quickselect-algorithm/
 
 ### 21) LRU Cache
 
