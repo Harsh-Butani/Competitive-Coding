@@ -144,6 +144,10 @@
 
 1) https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
 
+### 23) Morris Traversal
+
+1) https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
