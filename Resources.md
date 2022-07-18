@@ -148,6 +148,10 @@
 
 1) https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/
 
+### 24) Maximum AND value
+
+1) https://www.geeksforgeeks.org/maximum-value-pair-array/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
