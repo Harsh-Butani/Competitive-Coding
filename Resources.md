@@ -156,6 +156,10 @@
 
 1) https://www.geeksforgeeks.org/coin-change-dp-7/
 
+### 26) GCD of 2 numbers
+
+1) https://www.geeksforgeeks.org/c-program-find-gcd-hcf-two-numbers/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
