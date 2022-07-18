@@ -152,6 +152,10 @@
 
 1) https://www.geeksforgeeks.org/maximum-value-pair-array/
 
+### 25) Coin change problem
+
+1) https://www.geeksforgeeks.org/coin-change-dp-7/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
