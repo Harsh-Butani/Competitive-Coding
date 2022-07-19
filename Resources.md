@@ -160,6 +160,13 @@
 
 1) https://www.geeksforgeeks.org/c-program-find-gcd-hcf-two-numbers/
 
+### 27) Construction of trees from traversals
+
+1) https://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
+2) https://www.geeksforgeeks.org/construct-a-binary-tree-from-postorder-and-inorder/
+3) https://www.geeksforgeeks.org/cartesian-tree/ and https://www.geeksforgeeks.org/cartesian-tree-from-inorder-traversal-segment-tree/
+4) https://www.geeksforgeeks.org/full-and-complete-binary-tree-from-given-preorder-and-postorder-traversals/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
