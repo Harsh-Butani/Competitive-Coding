@@ -28,26 +28,49 @@
 
 1) https://codeforces.com/edu/course/2/lesson/6
 2) https://www.interviewbit.com/courses/programming/binary-search
+3) https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/
+4) https://www.geeksforgeeks.org/binary-search/
 
 ## Two Pointers Method
 
 1) https://codeforces.com/edu/course/2/lesson/9
 2) https://www.interviewbit.com/courses/programming/two-pointers
+3) https://www.geeksforgeeks.org/two-pointers-technique/
 
 ## Dynamic Programming
 
 1) https://atcoder.jp/contests/dp/tasks
+2) https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/
+3) https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/
+4) https://www.hackerearth.com/practice/algorithms/dynamic-programming/state-space-reduction/practice-problems/
+5) https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/
+6) https://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming
 
 ## Disjoint Set Union
 
 1) https://codeforces.com/edu/course/2/lesson/7
 2) https://cp-algorithms.com/data_structures/disjoint_set_union.html
+3) https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/
+4) https://www.geeksforgeeks.org/advanced-data-structures/#DisjointSet
 
 ## Bit Manipulation
 
 1) https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/
 2) https://www.interviewbit.com/courses/programming/bit-manipulation
 3) https://www.geeksforgeeks.org/bits-manipulation-important-tactics/
+
+## Trie
+
+1) https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/
+2) https://www.geeksforgeeks.org/advanced-data-structures/#Trie
+3) https://cp-algorithms.com/string/aho_corasick.html
+
+## Segment Tree
+
+1) https://www.geeksforgeeks.org/advanced-data-structures/#SegmentTree
+2) https://codeforces.com/edu/course/2/lesson/4 and https://codeforces.com/edu/course/2/lesson/5
+3) https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/
+4) https://cp-algorithms.com/data_structures/segment_tree.html
 
 ## Some standard algorithms
 
