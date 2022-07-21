@@ -190,6 +190,10 @@
 3) https://www.geeksforgeeks.org/cartesian-tree/ and https://www.geeksforgeeks.org/cartesian-tree-from-inorder-traversal-segment-tree/
 4) https://www.geeksforgeeks.org/full-and-complete-binary-tree-from-given-preorder-and-postorder-traversals/
 
+### 28) Merging two sorted arrays using O(1) space
+
+1) https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
+
 ## Some standard preprocessing techniques
 
 ### 1) Prefix Sum Array
